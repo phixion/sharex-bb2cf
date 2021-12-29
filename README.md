@@ -22,16 +22,16 @@ WIP
     ## 1. BackBlaze
 
     create a Bucket that publicly accessible give it a namethat makes sense
-    ![enter image description here](https://i.phx.ms/ixj3.png)
+    ![enter image description here](https://i.chaot.dev/ixj3.png)
 
     create api credentials for sharex with read/write permissions to that bucket
-    ![enter image description here](https://i.phx.ms/4Vix.png)
+    ![enter image description here](https://i.chaot.dev/4Vix.png)
 
 
     ## 2. ShareX
     setup a new destination from thepresets and put the credentials we just received
 
-    ![enter image description here](https://i.phx.ms/fQES.png)
+    ![enter image description here](https://i.chaot.dev/fQES.png)
 
     set it up as your default and upload a testfile to see if the credentials work and have sufficiant permissions
 
