@@ -39,9 +39,9 @@ WIP
 
     I put the interesting parts in red -> f000l.backblazeb2.com is our cname hostname
 
-    ![enter image description here](https://i.phx.ms/rGSi.png)
+    ![enter image description here](https://i.chaot.dev/rGSi.png)
 
 
     ## 3. CloudFlare DNS  setup
     head over to cloudflare and setup a cname record that points to backblaze, something like this
-    ![enter image description here](https://i.phx.ms/QPIU.png)
+    ![enter image description here](https://i.chaot.dev/QPIU.png)
