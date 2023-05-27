@@ -1,5 +1,3 @@
-WIP
-
 ## **what we need:**
 
 - free plan: [cloudflare](https://www.cloudflare.com) dns with a domain of yours parked on it
@@ -45,3 +43,10 @@ WIP
     ## 3. CloudFlare DNS  setup
     head over to cloudflare and setup a cname record that points to backblaze, something like this
     ![enter image description here](https://i.chaot.dev/QPIU.png)
+    
+     ## 4. add a worker script
+     head over to cloudflare -> workers -> add application "sharex" -> quickedit
+     ![enter image description here](https://i.chaot.dev/2RnK.png)
+     paste contents of https://github.com/phixion/sharex-bb2cf/blob/master/worker.js and save
+
+     
